@@ -1,7 +1,16 @@
-venv/
-__pycache__/
-logs/
+# Secrets
+.env
+
+# Database / State
+*.db
 agent_state.db
 urls.db
-.env
-ENGINEERING_SUMMARY.json
+
+# Logs - ye wala
+logs/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
