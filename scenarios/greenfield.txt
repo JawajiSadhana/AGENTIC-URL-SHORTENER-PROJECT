@@ -1,0 +1,1 @@
+Build a scalable URL shortener with APIs, persistence, analytics. First search codebase for FastAPI patterns, then design.
