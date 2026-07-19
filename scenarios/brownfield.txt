@@ -1,0 +1,3 @@
+We already have a Flask app with basic /shorten endpoint using in-memory dict.
+Add rate limiting, analytics, and migrate to SQLite + FastAPI.
+Ask clarifying questions first before generating code.
